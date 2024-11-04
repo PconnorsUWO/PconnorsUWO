@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm <Your Name>!</h1>
+<h1 align="center">Hi there 👋, I'm <Patrick Connors>!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/patrick-connors-12218b27b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:you@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" />
+  <a href="mailto:pconnors@uwo.ca" target="_blank">
+    <img src="![665fb784ba86816920d7655f_cat-p-130x130q80](https://github.com/user-attachments/assets/ad2d7c99-0e26-4f83-bfcd-3842aa7ba153)"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://www.patrickconnors.ca/" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
