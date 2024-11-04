@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm <Patrick Connors>!</h1>
+<h1 align="center">Hi there 👋, I'm Patrick</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patrick-connors-12218b27b/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pconnors@uwo.ca" target="_blank">
-    <img src="![665fb784ba86816920d7655f_cat-p-130x130q80](https://github.com/user-attachments/assets/ad2d7c99-0e26-4f83-bfcd-3842aa7ba153)"/>
+  <a href="mailto:you@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.patrickconnors.ca/" target="_blank">
+  <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" />
   </a>
 </p>
@@ -16,12 +16,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **cool projects** in **web development / machine learning / etc.**
-- 🌱 I’m currently learning **new frameworks, languages, or tools**
-- 💬 Ask me about **tech topics, favorite tools, or any questions you have!**
-- 📫 How to reach me: [you@example.com](mailto:you@example.com)
-- ⚡ Fun fact: I love **hiking, gaming, coffee, or your fun hobby**
-
+- 🔭 I’m currently working on an Real Analysis Chatbot for students in MATH2122
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: [EMAIL](mailto:pconnors@uwo.ca)
+- ⚡ Fun fact: I option trade :(
 ---
 
 ## 🚀 Languages & Tools
@@ -76,4 +74,4 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-<p align="center">Made with ❤️ by [Your Name]</p>
+<p align="center">Made with ❤️ by Me</p>
