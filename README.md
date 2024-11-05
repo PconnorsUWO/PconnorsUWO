@@ -18,8 +18,9 @@
 
 - 🔭 I’m currently working on an Real Analysis Chatbot for students in MATH2122
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: [EMAIL](mailto:pconnors@uwo.ca)
-- ⚡ Fun fact: I option trade :(
+- 📫 How to reach me: [pconnors@uwo.ca](mailto:pconnors@uwo.ca)
+- ⚡ Fun fact: I peaked platinum in league of legends at 13 💪
+- 🙃 Unfun fact: It took me 1500 games 🙁
 ---
 
 ## 🚀 Languages & Tools
