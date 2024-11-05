@@ -64,16 +64,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [Project Name](https://github.com/yourusername/projectname) | Short project description here | JavaScript, HTML, CSS |
-| [Another Project](https://github.com/yourusername/anotherproject) | Another brief description here | Python, Flask, SQL |
-| [Cool Library](https://github.com/yourusername/coollibrary) | Explain what it does | Node.js, Express |
-
----
-
 ## 📈 Latest Activity
 
 <!--START_SECTION:activity-->
