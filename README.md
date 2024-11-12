@@ -62,15 +62,6 @@
 
 ---
 
-## 📈 Latest Activity
-
-<!--START_SECTION:activity-->
-1. 🔄 Updated repository [Project Name](https://github.com/yourusername/projectname)
-2. 🗣 Commented on [Issue](https://github.com/yourusername/otherproject/issues/1)
-3. 📌 Pinned [Another Cool Repo](https://github.com/yourusername/anothercoolrepo)
-<!--END_SECTION:activity-->
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
