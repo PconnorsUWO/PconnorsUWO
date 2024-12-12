@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm worker on a fork of an open-source texas hold-em poker-solver and creating a next.js front-end to deploy as no free version exists online right now and a majority of poker players don't know how to run a github repo
+- 🔭 I'm working on a fork of an open-source texas hold-em poker-solver and creating a next.js front-end to deploy, adding real-time solving as a feature.
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: [pconnors@uwo.ca](mailto:pconnors@uwo.ca)
 ---
