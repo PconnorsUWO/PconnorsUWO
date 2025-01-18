@@ -1,5 +1,5 @@
+![3D Profile](profile-3d-contrib/profile-night-view.svg)
 <h1 align="center">Hi there 👋, I'm Patrick</h1>
-![](profile-3d-contrib/profile-night-rainbow.svg)
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
