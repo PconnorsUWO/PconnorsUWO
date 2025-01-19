@@ -1,4 +1,4 @@
-![3D Profie](profile-3d-contrib/profile-night-view.svg)
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 <h1 align="center">Hi there 👋, I'm Patrick</h1>
 
 ## 👨‍💻 About Me
