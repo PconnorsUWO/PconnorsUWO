@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: [pconnors@uwo.ca](mailto:pconnors@uwo.ca)
   
-<p align="center">![Profile views](https://komarev.com/ghpvc/?username=pconnorsuwo&color=blue&style=flat-square)</p>
+<p align="center">![Profile views](https://komarev.com/ghpvc/?username=PconnorsUWO&color=blue&style=flat-square)</p>
 
 <p align="center">Made with ❤️ by Me</p>
